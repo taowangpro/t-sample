@@ -1,0 +1,54 @@
+.ui-footer .ui-title {
+    font-size: smaller;
+}
+
+.neverblue-email-phone{
+    float:right;
+}
+
+.neverblue-email-phone img{
+    margin-left: 3px;
+}
+.ui-header > .ui-btn.neverblue-logo{
+    top: -4px;
+    left: -4px;
+    border: none;
+    background: transparent none;
+}
+
+
+.ui-footer > .ui-btn.nbm-icon-email,
+.ui-footer > .ui-btn.nbm-icon-phone {
+    margin-top: 6px;
+}
+.nbm-icon-email .ui-btn-text{
+    background: url("../images/icon-mail.png") no-repeat scroll left top;
+    padding-left: 20px;
+}
+
+.nbm-icon-phone .ui-btn-text {
+    background: url("../images/icon-phone.png") no-repeat scroll left top;
+    padding-left: 20px;
+}
+
+.ui-footer {
+    text-align: center;
+}
+
+img.nbm-people-thumb {
+    float: left;
+    margin-right: 10px;
+}
+
+.nbm-people-info p{
+    font-size: smaller;
+}
+
+#nbm-rolltext > li {
+    line-height: 25px;
+    height:25px;
+}
+
+#nbm-rolltext-container {
+    overflow:hidden;
+}
